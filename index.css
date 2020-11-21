@@ -1,0 +1,62 @@
+.button {
+    /*border: none;
+    color: white;*/
+    /*padding: px 32px;*/
+    height: 150px;
+    width : 150px;
+    /*text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    /*margin: 4px 2px;*/
+    cursor: pointer;
+    z-index: 1;
+   
+}
+#b1 {
+    position: absolute;
+    top: 20em;
+    left:10em;
+}
+#img1 {
+    position: absolute;;
+    top: 17em;
+    left:10em;
+}
+
+#b2 {
+    position: absolute;
+    top: 20em;
+    left:25em;
+}
+#img2 {
+    position: absolute;;
+    top: 17em;
+    left:22em;
+}
+#b3 {
+    position: absolute;
+    top: 35em;
+    left:10em;
+}
+
+#img3 {
+    position: absolute;
+    top: 29em;
+    left:10em;
+
+}
+
+#b4 {
+    position: absolute;
+    top: 35em;
+    left:25em;
+
+
+}
+
+#img4{
+    position: absolute;
+    top: 29.5em;
+    left:22em;
+}
