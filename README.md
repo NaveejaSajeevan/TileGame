@@ -1,2 +1,2 @@
 # TileGame
-A game to find like imageds hidden behind tiles.
+A game to find like images hidden behind tiles.
